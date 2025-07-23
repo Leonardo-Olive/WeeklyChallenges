@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pJ3DmSxwUzBboo5WLa2wIQdn5SiSGSTO2XiaX8BxFxC9Mj2jJpA9xHmiYbQ/IgtzhdJ8tjl7CfS/C3MD6jwU9g==",
+  "dgSpecHash": "fZ8TvLVUSTALQPbm0Fx3DR96NsM7ZtsSLxNoN+mrjszxAwQqPQuhhomOR6T/om1TkJrYriitkypee0HgHKpwLg==",
   "success": true,
   "projectFilePath": "/Users/leozhitosmac/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/leozhitosmac/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/leozhitosmac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/leozhitosmac/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
